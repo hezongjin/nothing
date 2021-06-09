@@ -12,6 +12,9 @@ public class MasterJava {
 
     //abc and this is in dev and abc
 
+    public static void main(String[] args) {
+        System.out.println("hello dev");
+    }
 
 
 }
